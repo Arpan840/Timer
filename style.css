@@ -1,0 +1,21 @@
+.bg-black{
+    background-color: black;
+}
+.m-auto{
+    margin: auto;
+}
+.radious{
+    border-radius: 50px;
+}
+
+.bg-blue-type{
+    background-color: #34344A;
+}
+
+.w-50px{
+    width: 50px;
+}
+
+.outline-none{
+    outline: none;
+}
